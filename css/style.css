@@ -24,6 +24,7 @@ body
 }
 .menuLeft
 {   
+    margin-top: -5px;
     width: 400px;
     float: left;
     text-align: center;
