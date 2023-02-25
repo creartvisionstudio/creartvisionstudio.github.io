@@ -92,16 +92,14 @@ h1
     text-align: center;
     font-size: 32px;
 }
-footer
-{
-    margin: 0 auto;
-    background-color: black;
-    width: 1280px;
-    height: 40px; 
-}
 #copy
 {
+    margin: 0 auto;
     padding-top: 10px;
+    width: 1280px;
+    height: 40px;
+    background-color: black; 
     text-align: center;
     color: white;
+
 }
